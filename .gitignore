@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+project_summary_render/
+project_summary_render_v2/
+project_summary_render_v3/
